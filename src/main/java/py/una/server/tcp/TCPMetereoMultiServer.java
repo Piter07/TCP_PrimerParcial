@@ -27,6 +27,7 @@ public class TCPMetereoMultiServer {
             System.err.println("No se puede abrir el puerto: "+puertoServidor);
             System.exit(1);
         }
+        System.out.println("Pedro Lesme, 22 años");
         System.out.println("Puerto abierto: "+4444);
 
         while (listening) {

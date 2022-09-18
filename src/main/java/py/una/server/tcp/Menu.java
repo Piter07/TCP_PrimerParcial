@@ -14,6 +14,7 @@ public class Menu {
     }
     
     public static Operacion clienteMenu(){
+        System.out.println("Pedro Lesme, 22 años");
         System.out.println("Menu Principal");
         System.out.println("1 - Agregar datos metereologicos");
         System.out.println("2 - Consultar la temperatura de una ciudad");
